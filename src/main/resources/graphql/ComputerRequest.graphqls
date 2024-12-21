@@ -1,0 +1,7 @@
+input ComputerRequest{
+
+    proce : String
+    hardDrive: String
+    Ram : String
+    price : Float
+}
